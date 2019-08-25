@@ -1,5 +1,5 @@
+" Vim config for python development, setup while working in the battery lab, needs update badly
 
-" setup for python
 set nocompatible
 filetype off
 
@@ -31,5 +31,3 @@ set autoindent
 set hlsearch
 set showmatch
 nnoremap <Leader><Leader> :e#<CR>
-
-
