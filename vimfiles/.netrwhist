@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='C:/Users/mzw5zr/Downloads/gvim_8.0.0003_x64/vim/vim80'
-let g:netrw_dirhist_2='A:/375/L5P/WJ_Characterization/Java'
-let g:netrw_dirhist_3='A:/375/L5P/WJ_Characterization'
-let g:netrw_dirhist_4='A:/375/L5P/WJ_Characterization/Java'
